@@ -1,0 +1,11 @@
+.heading {
+  color: crimson;
+}
+ul {
+  color: blue;
+  font-style: italic;
+}
+.food-img {
+  height: 300px;
+  width: 300px;
+}
